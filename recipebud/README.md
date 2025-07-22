@@ -231,7 +231,7 @@ This project demonstrates several key principles:
 - **Quality Focus**: Comprehensive error handling and edge case management
 - **Innovation**: Creative solutions to complex culinary data challenges
 
-The RecipeBud codebase represents 18 months of intensive iOS development, showcasing the capability to build sophisticated, production-ready applications with modern Swift technologies and user-focused design principles.
+The RecipeBud codebase represents 4 months of intensive iOS development, showcasing the capability to build sophisticated, production-ready applications with modern Swift technologies and user-focused design principles.
 
 ---
 ## 🎯 Live Demo
