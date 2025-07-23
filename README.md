@@ -1,5 +1,7 @@
 # David Johansson - Portfolio
 
+> **A Note on My Contribution History:** A significant portion of my coding activity from the past year, particularly during the intensive 6-month development of the RecipeBud ecosystem, can be found on my legacy account: **[howudoin123](https://github.com/howudoin123)**. I have since transitioned to this professional profile for all future work.
+
 Self-taught full-stack developer building production iOS apps and AI-powered systems.
 
 ## 🚀 Featured Projects
