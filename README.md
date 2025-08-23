@@ -6,25 +6,25 @@ Self-taught full-stack developer building production iOS apps and AI-powered sys
 
 ## 🚀 Featured Projects
 
-### [RecipeBud iOS App](./iOS\ APP\ README.md) - Full-Stack Mobile Application
+### [RecipeBud iOS App](iOS%20APP%20README.md) - Full-Stack Mobile Application
 *100+ TestFlight users, 0 crashes, 1000+ recipes imported*
 - Full-stack iOS app with AI cooking assistant
 - [Download on TestFlight](https://testflight.apple.com/join/H7S3Es39)
 
-### [RecipeBud Waitlist Platform](./RECIPEBUD\ WAITLIST\ README.md) - React Landing Page
+### [RecipeBud Waitlist Platform](RECIPEBUD%20WAITLIST%20README.md) - React Landing Page
 *Production-ready marketing site with user acquisition focus*
 - React + TypeScript with Supabase backend
 - Advanced analytics and conversion optimization
 
-### [Recipe Extraction System](./SCRAPER\ README.md)
+### [Recipe Extraction System](SCRAPER%20README.md)
 *99%+ success rate across websites, YouTube, and Instagram*
 - Advanced web scraping with AI-powered fallbacks
 
-### [Hanna AI Assistant](./HANNA\ README.md)
+### [Hanna AI Assistant](HANNA%20README.md)
 *Real-time cooking guidance with 100% uptime*
 - Voice-enabled AI with multi-language support
 
-### [StellarPath](./StellarPath\ README.md)
+### [StellarPath](StellarPath%20README.md)
 *AI development guidance platform*
 - Helping developers go from idea to deployment
 
