@@ -225,7 +225,7 @@ services:
 
 ---
 
-Built with ❤️ by David Johansson | [LinkedIn](https://linkedin.com/in/davidjohansson) | [GitHub](https://github.com/david-johansson1)
+Built with ❤️ by David Johansson
 
 ---
 *For job opportunities or technical discussions, contact: djohansson1515@gmail.com*
