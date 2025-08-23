@@ -1,13 +1,12 @@
-StellarPath - AI-Powered Development Guidance Platform
+# StellarPath - AI-Powered Development Guidance Platform
+*Transforming ideas into deployed products through intelligent AI guidance*
 
-  Transforming Ideas into Deployed Products Through Intelligent AI Guidance
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+[![Claude](https://img.shields.io/badge/Claude-AI-orange.svg)](https://anthropic.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-brightblue.svg)](https://postgresql.org/)
 
-  https://github.com
-  https://fastapi.tiangolo.com/
-  https://anthropic.com
-  https://postgresql.org
-
-  ---
+---
   🎯 Project Overview
 
   StellarPath is a comprehensive AI-powered development consultant platform that guides
