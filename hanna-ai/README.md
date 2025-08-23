@@ -1,4 +1,10 @@
 # Hanna - Intelligent Cooking Assistant API
+*AI-powered cooking guidance with real-time voice interaction*
+
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)](https://openai.com/)
+[![WebSocket](https://img.shields.io/badge/WebSocket-Real--time-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ## Overview
 
