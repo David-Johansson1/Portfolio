@@ -2,7 +2,7 @@
 *Production-grade API extracting recipes from any web source with 99%+ success rate*
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115.12-green.svg)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-brightblue.svg)](https://docker.com/)
 [![Playwright](https://img.shields.io/badge/Playwright-Browser%20Automation-orange.svg)](https://playwright.dev/)
 
@@ -285,4 +285,4 @@ The system runs on Hetzner infrastructure via Dokploy:
 Built with ❤️ for RecipeBud users who want their recipes in one place, regardless of where they find them.
 
 ---
-*For job opportunities or technical discussions, contact: djohansson1515@gmail.com *
+*For job opportunities or technical discussions, contact: djohansson1515@gmail.com*
