@@ -2,7 +2,7 @@
 *Transforming ideas into deployed products through intelligent AI guidance*
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115.13-green.svg)](https://fastapi.tiangolo.com/)
 [![Claude](https://img.shields.io/badge/Claude-AI-orange.svg)](https://anthropic.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-brightblue.svg)](https://postgresql.org/)
 
@@ -304,4 +304,4 @@
   product
 
 ---
-*For job opportunities or technical discussions, contact: djohansson1515@gmail.com *
+*For job opportunities or technical discussions, contact: djohansson1515@gmail.com*
