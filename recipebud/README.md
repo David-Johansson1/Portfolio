@@ -238,10 +238,10 @@ The RecipeBud codebase represents 18 months of intensive iOS development, showca
 
 **TestFlight Access Available**: Experience the full app functionality with a live TestFlight build. The demo showcases real-time recipe import, AI cooking assistance, and all core features in a production environment.
 
-[**Download on TestFlight**] (https://testflight.apple.com/join/H7S3Es39)
+[**Download on TestFlight**](https://testflight.apple.com/join/H7S3Es39)
 
 ---
 *Built with ❤️ and Swift by David Johansson*
 
 ---
-*For job opportunities or technical discussions, contact: djohansson1515@gmail.com *
+*For job opportunities or technical discussions, contact: djohansson1515@gmail.com*
