@@ -1,5 +1,5 @@
 # RecipeBud Waitlist Platform 🎯
-*Production-ready React landing page driving pre-launch user acquisition*
+*Production-ready React landing page driving user acquisition for beta release*
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-orange.svg)](https://www.typescriptlang.org/)
@@ -8,7 +8,7 @@
 
 ## Overview
 
-A sophisticated React-based landing page designed to build anticipation and capture early users for RecipeBud's iOS app launch. This marketing platform combines modern web technologies with conversion-focused design, delivering a seamless experience that turns visitors into engaged waitlist members.
+A sophisticated React-based landing page designed to build anticipation and capture early users for RecipeBud's iOS app currently in beta. This marketing platform combines modern web technologies with conversion-focused design, delivering a seamless experience that turns visitors into engaged waitlist members.
 
 The project demonstrates production-grade frontend development with advanced user experience optimization and strategic user acquisition features.
 
@@ -49,7 +49,7 @@ React 18.3.1 + TypeScript
 ### Backend & Infrastructure
 - **Supabase**: PostgreSQL database with real-time subscriptions
 - **Authentication**: JWT-based user management
-- **Hosting**: Lovable Platform with custom domain
+- **Hosting**: Cloud hosting with custom domain
 - **CDN**: Cloudinary for optimized video delivery
 
 ## 📊 Database Schema
